@@ -1,2 +1,2 @@
 # Twitter-Classification-Using-Logistic-Reggression-
-Analyzing and visualizing sentiment patterns in twitter.
+Analyzing and visualizing sentiment patterns in social media data is a powerful method to gain insights into public opinion and attitudes towards specific topics or brands. This process involves collecting, processing, and interpreting large volumes of social media content, such as tweets, posts, comments, and reviews, to discern the prevailing sentiments and sentiments trends.
